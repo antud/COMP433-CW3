@@ -120,6 +120,12 @@
             android:layout_width="match_parent"
             android:layout_height="75dp"/>
     </LinearLayout>
+    <com.example.cw3.MyDrawingArea
+        android:id="@+id/blank_drawing_area"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+
+        android:scaleType="fitCenter" />
 
 
 
